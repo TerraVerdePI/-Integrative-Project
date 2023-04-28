@@ -19,6 +19,7 @@ import com.integrador.terraverde.security.JwtService;
 @Service
 public class UsuarioService {
 
+	
 	@Autowired
 	private UsuarioRepository usuarioRepository;
 
@@ -104,4 +105,5 @@ public class UsuarioService {
 	private String gerarToken(String usuario) {
 		return "Bearer " + jwtService.generateToken(usuario);
 	}
+	
 }
