@@ -1,8 +1,8 @@
-package com.integrador.terraverde.model;
+	package com.integrador.terraverde.model;
 
-import java.time.LocalDateTime;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.integrador.terraverde.model.Usuario;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -23,20 +23,20 @@ public class Produto {
 	private Long id;
 
 	@NotBlank(message = "O atributo título é Obrigatório!")
-	@Size(min = 5, max = 100, message = "O atributo título deve conter no minimo 05 e no maximo 100 caracteres")
+	@Size(max = 100, message = "O atributo título deve conter no minimo 05 e no maximo 100 caracteres")
 	private String nome;
 
 	@NotBlank(message = "O atributo receita é Obrigatório!")
-	@Size(min = 10, max = 1000, message = "O atributo receita deve conter no minimo 10 e no maximo 1000 caracteres")
+	@Size(max = 1000, message = "O atributo receita deve conter no minimo 10 e no maximo 1000 caracteres")
 	private String descricao;
 
 	private String foto;
 
 	@NotNull(message = "O preço é o obrigatório!")
 	private float preco;
-
-	@NotNull(message = "A validade é obrigatória!")
-	private LocalDateTime validade;
+	
+	@NotNull
+	private String validade;
 
 	@NotBlank(message = "A regiao é obrigatória!")
 	private String regiao;
@@ -53,6 +53,10 @@ public class Produto {
 	@ManyToOne
 	@JsonIgnoreProperties("produto")
 	private Categoria categoria;
+	
+	@ManyToOne
+	@JsonIgnoreProperties("produto")
+	private Usuario usuario;
 
 	public Long getId() {
 		return id;
@@ -94,11 +98,11 @@ public class Produto {
 		this.preco = preco;
 	}
 
-	public LocalDateTime getValidade() {
+	public String getValidade() {
 		return validade;
 	}
 
-	public void setValidade(LocalDateTime validade) {
+	public void setValidade(String validade) {
 		this.validade = validade;
 	}
 
@@ -140,6 +144,14 @@ public class Produto {
 
 	public void setCategoria(Categoria categoria) {
 		this.categoria = categoria;
+	}
+
+	public Usuario getUsuario() {
+		return usuario;
+	}
+
+	public void setUsuario(Usuario usuario) {
+		this.usuario = usuario;
 	}
 
 }
