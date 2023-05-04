@@ -18,7 +18,7 @@ public class Categoria {
 	private Long id;
 	
 	@NotBlank
-	@Size(max = 500, message = "O atributo descricao deve conter no mínimo 05 e no máximo 500 caracteres.")
+	@Size(max = 500, message = "O atributo descricao deve conter no máximo 500 caracteres.")
 	private String descricao;
 
 	public Long getId() {
