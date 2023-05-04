@@ -2,7 +2,6 @@
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.integrador.terraverde.model.Usuario;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
