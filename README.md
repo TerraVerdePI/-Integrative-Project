@@ -109,18 +109,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Spring initializer](https://start.spring.io/)**
  
-  -  [Spring Boot Dev Tools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
-
+  
 
 -   **[Spring Boot](https://spring.io/projects/spring-boot)**
 
 -   **[MySQL Server(8.0.22)](https://dev.mysql.com/downloads/mysql/)**
-*
+
 
 #### [](https://github.com/TerraVerdePI/Integrative-Project)**Utilitários**
 
--   Protótipo:  **[Figma](https://www.figma.com/)
-**
+-   Protótipo:  [Figma](https://www.figma.com/)
+
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**, 
 -   Markdown:  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 
