@@ -20,14 +20,11 @@
 
 ## 💻 Sobre o Projeto
 
-:Terra Verde: - Plataforma E-commerce utilizada intermédio entre produtores por região, onde um lado da cadeia de distribuição publicaria seu produto e o local onde ele está disponível, bem como o valor do referido produto. O usuário assim interessado em adquirir entraria em contato para realizar a transação, eliminando intermediários e garantindo preços justos e acessíveis para todos terem poder de compra..
-
-Projeto desenvolvido durante o **Bootcamp Desenvolvedor Web Java Junior** oferecida pela [Generation Brasil](https://brazil.generation.org/).
-A missão da Generation Brasil é apoiar jovens a construírem carreiras sustentáveis e prósperas e fornecer aos empregadores uma rede de talentos altamente qualificados e motivados, visando aprimorar os resultados de seus negócios.
+Terra Verde: Plataforma E-commerce utilizada entre produtores por região, onde seria possível a publicação do produto e o local onde ele está disponível, bem como o valor do referido produto. O usuário assim interessado em adquirir realizaria a compra online e poderia receber em casa combinando com o produtor ou iria ao local informado na descrição, os alimentos seriam a baixo custo pois além de eliminar intermediários (locais de compra e impostos) os alimentos podem ser os "fora do padrão" que estão em perfeitas condições de consumo, mas muitas vezes não chegam ao consumidor por não serem aceitos em grandes redes de supermercados.
 
 ---
 
-## : Documentação Completa
+##  Documentação Completa
 
 - <a href="#">Back-End</a>
 - <a href="#">Front-End</a>
@@ -42,28 +39,28 @@ A missão da Generation Brasil é apoiar jovens a construírem carreiras sustent
 
 ## 🎨 imagens
 
-### : Mobile
+###  Mobile
 
 <p align="center">
-	
+
   <img alt="GetSet" title="#GetSet" src="IMAGEMMMMM" width="200px">
 
   <img alt="GetSet" title="#GetSet" src="IMAGEMMMMMM" width="200px">
-  
+
   <img alt="GetSet" title="#GetSet" src="IMAGEMMMMMMM" width="200px">
-  
+
 </p>
 
-### : Web
+### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	
+
   <img alt="GetSet" title="#GetSet" src="IMAGEMMMMM" width="200px" heigth="250px">
 
   <img alt="GetSet" title="#GetSet" src="IMAGEMMMMMMM" width="200px" heigth="250px">
-  
+
   <img alt="GetSet" title="#GetSet" src="IMAGEMMMMMM" width="200px" heigth="250px">
-  
+
 </p>
 
 ---
@@ -108,7 +105,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### [](Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Spring initializer](https://start.spring.io/)**
- 
+
   
 
 -   **[Spring Boot](https://spring.io/projects/spring-boot)**
@@ -136,10 +133,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center"><a href="https://github.com/Janjanzinh"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4E03AQGm_84KaIvt8w/profile-displayphoto-shrink_200_200/0/1649428037212?e=1687996800&v=beta&t=vtI7HxpI0m2i0jW98NxSurpbchZbRDYZfAVIr5rnhDE" width="150px;" alt=""/><br /><sub><b>Janilson Alves</b></sub></a><br /><a href="https://thegetset.herokuapp.com/" title="GetSet"></a></td> 
   </tr>
 </table>
+Idealizamos durante o **Bootcamp Desenvolvedor Web Java Junior** oferecida pela [Generation Brasil](https://brazil.generation.org/). A missão da Generation Brasil é apoiar jovens a construírem carreiras sustentáveis e prósperas e fornecer aos empregadores uma rede de talentos altamente qualificados e motivados, visando a diversidade e aprimorando os resultados de seus negócios.
 
 ##  Como contribuir para o projeto
 
-1 
+
 
 
 ---
