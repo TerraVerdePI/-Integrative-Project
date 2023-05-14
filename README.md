@@ -133,7 +133,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center"><a href="https://github.com/Janjanzinh"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4E03AQGm_84KaIvt8w/profile-displayphoto-shrink_200_200/0/1649428037212?e=1687996800&v=beta&t=vtI7HxpI0m2i0jW98NxSurpbchZbRDYZfAVIr5rnhDE" width="150px;" alt=""/><br /><sub><b>Janilson Alves</b></sub></a><br /><a href="https://thegetset.herokuapp.com/" title="GetSet"></a></td> 
   </tr>
 </table>
-Idealizamos durante o **Bootcamp Desenvolvedor Web Java Junior** oferecida pela [Generation Brasil](https://brazil.generation.org/). A missão da Generation Brasil é apoiar jovens a construírem carreiras sustentáveis e prósperas e fornecer aos empregadores uma rede de talentos altamente qualificados e motivados, visando a diversidade e aprimorando os resultados de seus negócios.
+Idealizamos durante o *Bootcamp Desenvolvedor Web Java Junior* oferecida pela <a href="https://brazil.generation.org/">Generation Brasil</a>. A missão da Generation é apoiar jovens a construírem carreiras sustentáveis e prósperas e fornecer aos empregadores uma rede de talentos altamente qualificados e motivados, visando a diversidade e aprimorando os resultados de seus negócios.
 
 ##  Como contribuir para o projeto
 
