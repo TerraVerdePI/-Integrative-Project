@@ -26,8 +26,8 @@ Terra Verde: Plataforma E-commerce utilizada entre produtores por região, onde 
 
 ##  Documentação Completa
 
-- <a href="#">Back-End</a>
-- <a href="#">Front-End</a>
+- <a href="https://github.com/TerraVerdePI/Integrative-Project">Back-End</a>
+- <a href="https://github.com/TerraVerdePI/Front-End_Projeto_Integrador">Front-End</a>
 
 ---
 
